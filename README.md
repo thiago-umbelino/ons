@@ -1,2 +1,2 @@
 # ons
-Notebooks de consumo dos dados do Operador Nacional do Sistema (ONS)
+Notebook de consumo dos dados do Operador Nacional do Sistema (ONS)
